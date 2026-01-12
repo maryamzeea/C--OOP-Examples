@@ -23,9 +23,9 @@ This model represents a **student record system**.
 **Concepts used:**
 
 * Abstraction using an abstract `Person` class
-* Inheritance (`Student` and `GraduateStudent`)
+* Inheritance (Student and GraduateStudent)
 * Encapsulation using private fields with properties
-* Method overriding (`Introduce()` method)
+* Method overriding (Introduce() method)
 * Constructors for initializing data
 * String concatenation for output
 
@@ -38,9 +38,9 @@ This model represents a **car hierarchy system**.
 
 **Concepts used:**
 
-* Abstraction using an abstract `Car` class
-* Inheritance (`Sedan` → `Honda`)
-* Method overriding (`Display()` method)
+* Abstraction using an abstract Car class
+* Inheritance (Sedan and Honda)
+* Method overriding (Display() method)
 * Constructors for object initialization
 * String concatenation for displaying car details
 
@@ -53,11 +53,11 @@ This model represents a **weapon system**.
 
 **Concepts used:**
 
-* Abstraction using an abstract `Weapons` class
-* Inheritance (`RangedWeapon` → `Gun`)
+* Abstraction using an abstract Weapons class
+* Inheritance (RangedWeapon and Gun)
 * Polymorphism using a base class array
 * Arrays to store multiple weapon objects
-* Method overriding (`Display()` method)
+* Method overriding (Display() method)
 * Encapsulation with validation
 * Constructors
 * String concatenation for output
