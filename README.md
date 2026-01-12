@@ -22,7 +22,7 @@ This model represents a **student record system**.
 
 **Concepts used:**
 
-* Abstraction using an abstract `Person` class
+* Abstraction using an abstract Person class
 * Inheritance (Student and GraduateStudent)
 * Encapsulation using private fields with properties
 * Method overriding (Introduce() method)
